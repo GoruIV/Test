@@ -108,7 +108,6 @@ b11799372fe48350 //DSammd
 d82365de9da172da //orasino
 f031660e46c939ec //kusatic
 dc3bbb7a670615a3 //gulom
-666663931798599760 //medical
 25a519d6485ffe34 //NoWHeRe
 bfb1127dcc85ce66 //Ronny
 bbe99c3bbc73a382 //poomaster
@@ -122,5 +121,4 @@ fbe9e5d1967ffe60 //trapg1919 ⏳
 d76cb4d5b52c6283 //kayselvirtual
 2cb2a76f7c914663 //rpsnider85
 d3130028c3dbb5d4 //keymer17
-666663295584692930 //faenyd
 1728206c1ff567a0 //rizkyfajarprtm
