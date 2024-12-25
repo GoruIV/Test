@@ -57,6 +57,5 @@ d82365de9da172da //orasinho
 801c933316998a67 //bagula9052
 b11799372fe48350 //DSammd
 565d4ac84bd37247 //playful_rabbit_14214
-565d4ac84bd37247 //playful_rabbit_14214
-4ac5ba42d6093aaf //mikeh23.
-95cd98d46442fe54 //mikeh23.2
+bd754d4986e78bef //NorthernStar
+3d922ac210e03fa3 //Elder Piya
