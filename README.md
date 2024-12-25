@@ -101,3 +101,11 @@ d4ead2cb3864e88d //khajor
 d3aeec50223d905a //kandiz
 248adf64fc6a9fec //pasha
 1a18f00dfaa76e1a //KCppppp
+b11799372fe48350 //DSammd
+0ae9e0bc0dd61c8d //Dédé
+d82365de9da172da //orasino
+f031660e46c939ec //kusatic
+dc3bbb7a670615a3 //gulom
+666663931798599760 //medical
+25a519d6485ffe34 //NoWHeRe
+bfb1127dcc85ce66 //Ronny
