@@ -60,7 +60,9 @@ b11799372fe48350 //DSammd
 bd754d4986e78bef //NorthernStar
 3d922ac210e03fa3 //Elder Piya
 41f6d188a289852b //lu1726
-04eb64ea74708af2 //booblak
+04eb64ea74708af2 //booblak phone
+22e29e7b470587e5 //Android Emulator 1st account
+728f2bcccd9dbdac //Android Emulator 2nd account
 4e6072eb6487f547 //Chang'an
 21718bba172dfb33 //亗૯ℓz૯૧ષiα×∞
 200721a693350985 //Spark
