@@ -153,4 +153,9 @@ d5f06ab6c95c12a0 //dragnel_jp
 1a6e7aa05446fcb3 //mbrit
 a10d97cd2ce793c6 //schilki83
 19030ac4ad31e4c7 //dilsirldesanta
-5a70feacb71cb444 //phantasys
+87805e908d949d46 //phantasys
+19030ac4ad31e4c7 //dilsirldesanta
+01a1f02d2e330b8d //samerjaloudi.
+a52f2c97203ea553 //jimin0626
+56cda3b840023c7e //YuYe
+df5f01b8d8361419 //rinaldinimous
