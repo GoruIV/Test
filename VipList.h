@@ -94,7 +94,8 @@ df5e2044be7dba47 //monicafs
 45d8c90a64cfb348 //nsg27
 01a1f02d2e330b8d //samer jaloudi
 e6b7c1b3aaae449f //kosin1
-dc180ecd8f5a0a99 //edwinpc
+dc180ecd8f5a0a99 //edwin
+ecce12f431af8461 //edwin bluestacks
 e8ffb5b8619a744d //jotaver
 c244f55089d3883a //fit
 005bc21d5468b610 //javier
