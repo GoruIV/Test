@@ -80,7 +80,6 @@ a439d203c94a59d2 //avivaknin
 e9def33d43e09b01 //Mamathinzar
 177391892843dd1b //dandiscovers
 83fee8c04ec31772 //noname
-b3cb3462b30caceb //patata30.
 51aefc79dc642857 //Insanit716
 b306e9a616992767 //leko0542
 eae99ba7bb65a4af //triton
