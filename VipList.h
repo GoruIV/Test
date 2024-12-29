@@ -179,7 +179,9 @@ d69186ca98f272d7 //cerri cette
 d07fe919a8d6e0a0 //harlokart ⏳
 ebc4ad23e268ca1d //lightfury
 c25352038a06c533 //not-aerith ⌛
-6318cfde5d3f369c_id //m4th3us_n
+6318cfde5d3f369c //m4th3us_n
 9948a0ca5ab34a60 //popular_monster_99
 5a3cc124b88d92c0 //44438231
 aad239311efc9331 //elgatofelix
+25e32019f05731e9 //clau_76603
+f22d3494626b6948 //bood7990
