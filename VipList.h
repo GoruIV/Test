@@ -249,5 +249,4 @@ fdcb8f02919e5f45 //jose_cruz
 ee6a12e7e041f5b2 //oshiKUb
 b4bbc43770a574b9 //ponariwatu
 e9d42e63055b4624 //ytpejih
-c3ec3bc260d8b8ad //poison0684
-c3ec3bc260d8b8ad //jeremypond
+
