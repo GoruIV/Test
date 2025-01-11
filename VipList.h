@@ -272,6 +272,7 @@ b0da1b7bd595aef6 //raiden00
 6018ee5ce18ad12f //usered__
 373928f9d0d16e1e //dracula09626
 76aad686468209dc //misaka01
+40281245b451ed20 //misaka02
 eef5aa594afe84fb //MEMELỎ
 d26c7777a377c404 //MEMELỎ 2
 e3ea2314461111dd //psduardo
