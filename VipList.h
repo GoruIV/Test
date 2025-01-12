@@ -313,3 +313,5 @@ aa2f45d55a1d9971 //artem2227
 d49b7efb6f7f922a //b4n4na.
 4160375374c86ce9 //hendri
 93a709a3f644e880 //lovely5448
+ce637e16743a24ab //die-panzer1
+9345a6ffe9224970 //die-panzer2
