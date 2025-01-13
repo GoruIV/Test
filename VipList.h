@@ -319,4 +319,5 @@ ce637e16743a24ab //die-panzer1
 812dd2f526c171c7 //gui.paraiso
 85992a5c0807ee47 //exp_max
 7aa40fe90b011391 //nakun.cmc
-7ede46213159beb4 //pigkiller90
+7ede46213159beb4 //pigkiller9
+1d4a6a7a9e49b176 //nakun.cmc
