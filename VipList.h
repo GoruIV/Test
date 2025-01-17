@@ -56,7 +56,6 @@ b1bee22a8b3b7ab3 //anfr_hn
 f031660e46c939ec //kusatik
 d82365de9da172da //orasinho
 0ae9e0bc0dd61c8d //uranus882
-801c933316998a67 //bagula9052
 b11799372fe48350 //DSammd
 565d4ac84bd37247 //playful_rabbit_14214
 bd754d4986e78bef //NorthernStar
