@@ -2,7 +2,7 @@
 ae2570d4a849dab8 //Flocon
 1428db6b25d23fac //FloConVM 
 4aa3d9a952c037a28654f4151afb878e //Goru
-4046a370eb44034e //Goru2
+be296822c70e3466a7936445e837bebb //Goru2
 5b90538784909841 //ruskof
 3cd5cc7510462bc5 //enesii0
 464f55464533524a //kishonp
