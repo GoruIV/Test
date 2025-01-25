@@ -1,2 +1,3 @@
 64264eb7e2ce35bcab7aa7d2a235b036 //FloConVM
 3538c1e5f0763698a4d0bd898cfab48c //FloCon
+922d579fd93e3527a84b5997880904fe //vhalore
