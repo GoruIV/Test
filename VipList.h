@@ -1,4 +1,3 @@
-6a08e4e421b732d2889b3cc9a1e5a00c //kuqor
 128a2b4cae75354f822bc65becf31272 //gettingfreky
 30b9c5f92b4734dc96cca8c635feaeb4 //gilbertobiscarvajal
 25be58905b17447c9e8519c6e4ef2e1f //luis.romero272_57201
@@ -93,7 +92,7 @@ c03f0df4557c44058fbd13bb4783d412 //javier088333
 fba019f887ba3dd09ad150d1dc757798 //epicshade.
 e1cc126505653a7cac6b52ad05a93217 //attaurrahman_36641
 f73b580c2afc3c07bc84c67fe3da7c0d //eltoxicocuhh
-3034481e31893862aca15135029f8448 //kuqor ⌛
+6a08e4e421b732d2889b3cc9a1e5a00c //kuqor ⌛
 0df21036e5e23018a1b5e82b5cbc79a0 //yukimiya_lindaokk. ⌛
 ef936aad69e434b4b8e96b7dcf232258 //tech069730 ⌛
 f5264c00e6683ce5be4fa564643f72b9 //17yari ⌛
