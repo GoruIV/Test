@@ -1,3 +1,4 @@
+1cd754e219d73def88a06e853dd221d4 //Darlei #Discord
 fed03e985dbe31329025771197aa72f2 //._sxx_.
 9c512e94b32d3d72922df7e3d7e55d57 //camilorizo.
 fcce26f57e653db5abbd53afff106872 //toan1802
