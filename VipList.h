@@ -23,7 +23,6 @@ deebd44a8c683754922045049f7eadb9 //joshuasass
 0df21036e5e23018a1b5e82b5cbc79a0 //yukimiya_lindaokk. ⌛
 ef936aad69e434b4b8e96b7dcf232258 //tech069730 ⌛
 80881500f1bb3813890925223fae5041 //17yari ⌛
-7fdc01d3dc673c4099773e5b0da6b371 //rqdroid5 ⌛
 6e7dc70969d73024b9f7fd697966affa //gioogoo54
 7bf62396dd4532348883f3cc155ebb1d //admin_op_are_x
 21463eac0dc43caea060b8288cecd372 //soumyaruppal
