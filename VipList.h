@@ -10,7 +10,6 @@ dcc346ca69723acc8edbd1ff9ee4eb5d //#jedaiwun
 3e89a46e8760399c96cf48ecdff793c6 //_arturus
 29bbc7a209e638ae8760b78df4088b64 //janeny1992
 33f3689fc66d35fd9b6192786bfebb77 //Thuyet-M8
-c8addecf09813b09b817bcf10a64c52d //rqdroid5 ⌛
 e87320121e8734018bf7773ff59c7c29 //nicoyteam
 122b2d8dbeb034409a76227e58bc433e //szshaikh_
 aa7e7c2e6c683fbbbe31298d680c5cff //elpeque98
