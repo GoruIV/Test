@@ -135,7 +135,7 @@ a39860b5674d369db378558a8b5b339f //benik13
 bd174dd0bba2324089b68398bad02d07 //dynortyce
 dcc346ca69723acc8edbd1ff9ee4eb5d //#jedaiwun
 c47c554095ed361483ae4e8dafe66efe //sve4ka. ⌛
-3e89a46e8760399c96cf48ecdff793c6 //_arturus
+8255b12a2bba38899f5cb21edf4a549c //_arturus
 29bbc7a209e638ae8760b78df4088b64 //janeny1992
 33f3689fc66d35fd9b6192786bfebb77 //Thuyet-M8
 e87320121e8734018bf7773ff59c7c29 //nicoyteam
