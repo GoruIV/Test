@@ -1,4 +1,3 @@
-b954b6898d5a39a5a2fe6c8085d3fb3f //ryu_ftw
 00caf01e97a434838be83063e5812273 //RickyyD88
 20d023d82efb3b7c8e04e52215c34fdb //domino1761
 3e7610c805b6379f805f8af087a34ed1 //scorpark0139
@@ -159,6 +158,7 @@ be634ca4c63539c6b6abe5620484c18d //caiocaires
 88ddc5a37d2935fc8ad9bbf525697cc2 //hiren77
 88ddc5a37d2935fc8ad9bbf525697cc2 //hiren77 2
 65721986865d36eea160c18c30f06724 //ryu_ftw
+b954b6898d5a39a5a2fe6c8085d3fb3f //ryu_ftw 2
 7bab1a2cadd33dd1b3705ff75dbc68aa //simotsu0048
 e7a0b67a90aa36bc90db357f272eda9c //donhusi.88
 f77fb6d71dad34aaae6f0ad691e125c6 //Дмитрий  Ekstazzz
