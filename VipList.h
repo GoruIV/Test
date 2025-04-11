@@ -1,3 +1,4 @@
+67a3ad058b1d375c940031c9daf8eaa2 //heromada 2
 fb7230ab72e1365dbdb1e4887e41c716 //sampler
 8ab4fd020f12305293149c641689b402 //vannhalsing
 303f037c91523d508d715538cfca0a0f //vannhalsing 2
