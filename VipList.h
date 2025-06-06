@@ -1634,9 +1634,8 @@ f73b580c2afc3c07bc84c67fe3da7c0d //eltoxicocuhh
 03182b264c1637beabc8149d44e6f456 //jhosus1341
 7930a043743d3bcfb24926e62f1646f2 //panconhuevo
 a6acbc7b41ee3c3faa0789d5e7ba38dc //bobuxman9645
-97786147fdb73593b2494059ce3b6989 //slickylucky
-f44b28076bfb3279bb6af21278f8c14a //slickylucky 2
-364bab91f6ee34518c1b06a9adf6413a //ariel457322
+5d50b14db090317c8a5efd7b194cfcdc //slickylucky
+
 c8979e27ed183bf493ae67584bf62dc2 //theapocalypser
 53aa132bf9393034997a8ed7747a544e //JunQuixz
 5ee860eaef603d3d81b4a50a8626008a //orasinho
