@@ -1,4 +1,3 @@
 Public
-
-FROSTBORN PubliC
+FROSTBORN Public
 
