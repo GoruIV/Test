@@ -1,6 +1,6 @@
 Public
 
-FROSTBORN PubliC
+FROSTBORN Public
 
 Tacticool Public
 
