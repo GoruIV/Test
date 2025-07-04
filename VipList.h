@@ -415,7 +415,7 @@ b90425a17e6d398eb4426ce28c638632 //aberrante.
 6edadbafa52030b5bc3df74a21cdf942 //sky__gammer1
 4aee63fabfc33977962855ad880a4b9d //.sogeki 2
 0fc0f07eefcf310ab31f6c652b4aab88 //nvthuyet 2
-dc38d63e92013f97961fce51fc7a5afa //foulked ⏳
+
 15e2ac5a2b563e8cbb8b49b915a1c588 //kilrwolfgodz
 b256e16c7560336ba0b7fd0018ec2c58 //bestcamper
 d99597c5b54630b489e8d9a7b83d1f45 //zxccoil
@@ -598,7 +598,7 @@ de5a04acb51b3a92a0ac31edc15c55e0 //m4beamedyou._63328
 ac8d974b9b6a3b6da0be7b709aa60799 //mbrit
 ce486904caff31e69a5ba17ceef630a5 //laminh_98394
 569370144c3e350790b53f124e7a4757 //elden_101
-c47c554095ed361483ae4e8dafe66efe // sve4ka. ⏳
+
 c9b8844452733383802a8b84c73b7e21 //kama_53459 
 e990259fbcdb36e6acc188475d373e67 //javier088333 4
 e990259fbcdb36e6acc188475d373e67 //javier088333 3
@@ -1146,7 +1146,7 @@ ed1748ac317d3a0b993b85a7bc66d1f7 //Kontoruツ
 a39860b5674d369db378558a8b5b339f //benik13
 bd174dd0bba2324089b68398bad02d07 //dynortyce
 dcc346ca69723acc8edbd1ff9ee4eb5d //#jedaiwun
-c47c554095ed361483ae4e8dafe66efe //sve4ka. ⌛
+
 8255b12a2bba38899f5cb21edf4a549c //_arturus
 29bbc7a209e638ae8760b78df4088b64 //janeny1992
 33f3689fc66d35fd9b6192786bfebb77 //Thuyet-M8
@@ -1580,7 +1580,7 @@ ed1748ac317d3a0b993b85a7bc66d1f7 //Kontoruツ
 a39860b5674d369db378558a8b5b339f //benik13
 bd174dd0bba2324089b68398bad02d07 //dynortyce
 dcc346ca69723acc8edbd1ff9ee4eb5d //#jedaiwun
-c47c554095ed361483ae4e8dafe66efe //sve4ka. ⌛
+
 8255b12a2bba38899f5cb21edf4a549c //_arturus
 29bbc7a209e638ae8760b78df4088b64 //janeny1992
 33f3689fc66d35fd9b6192786bfebb77 //Thuyet-M8
