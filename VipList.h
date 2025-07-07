@@ -2043,5 +2043,3 @@ ad17383fe8023aa4b0a918c2d43bb515 //noirblancsilent
 65f5d2417609387c9025152ee3857fcb //Goru3 TimeEnd: 07/07/2026
 4f01566583983c91a1f0f05227245632 //uvgxa
 2edbfbeeeab93abd870ee67ff12fbe12 //Tedt
-
-goru
