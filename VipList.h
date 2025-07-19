@@ -198,7 +198,6 @@ e0694a29e1223b4697ed376b5aefe3f5 //simon3587
 0d0f5275ab4c3b8ab2f4de2f40450c84 //agusa5998
 027c1be81bf53948a63a71299a95cbb8 //carfongas
 8fdd3051d8e53fbab8f7219517e6ede6 //yukitran
-cdcb8c93216638f3a64d55c1bfb62ad6 //dexterya. ⏳
 91a45c5bfe7e32b79d77a9cf9bb76cef //legendary5455
 5d88441e77ef3710a8285eadba7828c2 //wolaile68
 f084bb69b5be321da1b01b3ab7d84044 //axiisnottired
