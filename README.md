@@ -1,8 +1,8 @@
-PubliC
+Public
 
 FROSTBORN Public
 
 Tacticool Public
 
-Westland PubliC
+Westland Public
 
