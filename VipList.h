@@ -2133,7 +2133,6 @@ e66d02b2f4143279b2e2bee1ea406e72 //shiranui.aya
 105ffba753793e9faf06bb1cc8ab7785 //gabbriel_16567
 1a6b52ffd0a43a8cab0d0770417983ef //gasbomb.tw
 a94bb0e51de23d2f9806eb255ca7df0f //hoan_phan_thanh
-c628e4b3c060312ca481aa8b4cd93a80 //cookedlilboy
 88c90d9ffff031038b9fe61cd87520c1 //ikaruga_xenon
 baa1d7f00508309588849c67b4aaf4d4 //.fakeid.
 bdf2a56fc2dc3342975f4130ef7b321a //pufa1999
