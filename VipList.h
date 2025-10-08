@@ -982,7 +982,6 @@ b51929acc2513fc4b3501d5e74f4de8a //laercio_miguel
 8b0e45456da8338d87c4f2dd56ba0a28 //morningstar66605
 b6714bb278983109a7368ed6cc1f3a06 //morningstar 2
 e2be160208ba3fc4b5fedefb07eabb44 //fenglin0597
-d3efb0a1494337db84cec857d83fbe2c //lautaro.123675
 26bc1ddf4b6a383b80dc7feb0f40fa32 //m9stafa0484
 70b0039e9df735e29cd59b5577a857c2 //littlebiker41_
 6e2ffde29b6a37af929afac77c032d1b //syntackserror
@@ -1367,7 +1366,6 @@ b51929acc2513fc4b3501d5e74f4de8a //laercio_miguel
 8b0e45456da8338d87c4f2dd56ba0a28 //morningstar66605
 e3d6cdd2953032948c015fcce17d342d //morningstar66605 2
 e2be160208ba3fc4b5fedefb07eabb44 //fenglin0597
-d3efb0a1494337db84cec857d83fbe2c //lautaro.123675
 26bc1ddf4b6a383b80dc7feb0f40fa32 //m9stafa0484
 70b0039e9df735e29cd59b5577a857c2 //littlebiker41_
 6e2ffde29b6a37af929afac77c032d1b //syntackserror
@@ -2669,7 +2667,6 @@ ba16151472da345f979a4f380d16107c //nordestinose
 d865a694f32c397b8bf0e15835184c5a //rockie0008
 30f31046b4a0335084fe876e1d25abd7 //giaemanem_666
 7eb43934af6f382aaebaaf95b1b3c25f //cusen7
-
 fd76d24f6a2c3f4ebbea1dee51eb7dc8 //endlessz3771
 cca42009b833361097b51314bae60f84 //matareyes7414
 875b1d4b236e3c419abd0812c9db8b35 //neero0377
