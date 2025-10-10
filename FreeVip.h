@@ -1,4 +1,4 @@
-LDOE FreE
+LDOE Free
 FROSTBORN FreE
 Tacticool FreE
 Westland FreE
