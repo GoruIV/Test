@@ -233,7 +233,6 @@ de645caef9e43245bb7f6208535db847 //girardcorp
 4447cbc5a9a93f98a6b8b3003f009b6b //luciferz
 a61b9412ee22337f936a830226d74419 //joseph032349
 d643b996ce583b0f9df2fb95ac143b62 //mercyplay
-I've added this one too
 dd3aae5f3c8330fd94de633fc5cd595c //jostin3.
 dde523d0d22f3927a8b0f654f3e6ea96 //darkkil
 1663c7aa2afd31b5a65fe380a871b3e0 //gadragon2
