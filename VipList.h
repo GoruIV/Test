@@ -973,7 +973,6 @@ b51929acc2513fc4b3501d5e74f4de8a //laercio_miguel
 09681e0b0b433f149eb55dfb80c1864f //menegaro_
 529320b7f9b43e14b9817a22bd0c57b8 //sebastian cuin
 00e3b75727d53fb09c0b899444b51db4 //fenglin
-0220c2afd3e5337487e53c71c219b754 //_miguel018
 064ddd47b2a033e2a4c92c5fafb8666a //xldemoniox
 9819b9682c1e397385ed6144a4ca86a6 //kubuki_cod_002
 1d6c49d1dced3028b622ecf6a80bf039 //frank.tmbq
@@ -1355,7 +1354,6 @@ b51929acc2513fc4b3501d5e74f4de8a //laercio_miguel
 09681e0b0b433f149eb55dfb80c1864f //menegaro_
 529320b7f9b43e14b9817a22bd0c57b8 //sebastian cuin
 00e3b75727d53fb09c0b899444b51db4 //fenglin
-0220c2afd3e5337487e53c71c219b754 //_miguel018
 064ddd47b2a033e2a4c92c5fafb8666a //xldemoniox
 9819b9682c1e397385ed6144a4ca86a6 //kubuki_cod_002
 1d6c49d1dced3028b622ecf6a80bf039 //frank.tmbq
