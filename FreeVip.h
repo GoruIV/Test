@@ -1,5 +1,5 @@
 LDOE FreE
 FROSTBORN FreE
 Tacticool FreE
-Westland Free
+Westland FreE
 Subnautica FreE
