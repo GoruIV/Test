@@ -2,7 +2,7 @@ Public
 
 FROSTBORN Public
 
-Tacticool Public
+Tacticool PubliC
 
 Westland Public
 
