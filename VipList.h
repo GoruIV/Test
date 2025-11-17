@@ -2164,7 +2164,6 @@ cfec5d5c421b3181836140fabcf12cbd //anton_ryhinow
 05f5bf8c5c06347e8558ff2cfb827879 //mclovin9100
 f58a357a7ade32088864e269bf2d06de //gonfreaks_007
 392f59328dc83ef09bda45cbce596c58 //dragonzm
-6c153be332fd32b29d1dc39da4e5b450 //makinohd
 01358e09b8e23eb0bbf098a5b5f49eba //e55amg_4life
 e8477ab2f5f337b69929e0e037507af9 //antilowkey
 e8477ab2f5f337b69929e0e037507af9 //antilowkey
@@ -3012,5 +3011,4 @@ a7cc9f6d788c3fc29abba2d978fd068e //kvn_6881⏳
 855838a8983f3db780049c6876655b7b //nuneney3
 8e3cdcf0beb23cf4b718683140ded434 //.4war.
 59d6e415e35935958a5bbad1b040f4f4 //abdys._64097
-6c153be332fd32b29d1dc39da4e5b450 //makinohd
 fa8b70920d0a3fcf9623c4a446ccebee //heavyturret__
