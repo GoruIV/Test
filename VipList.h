@@ -2146,7 +2146,6 @@ d1c3ff67c3b038548e95e38f9e368d6b //youngpatron_
 f64139eac6f5390e85dfeee90d6767d9 //dev_justice
 d25ade2572df306c8071ba9cec5c0c78 //edorh0610
 e76c1dcdccc53704a86cf8c6dd5bf61b //diegorodrigojs
-f5806b79f02e3eb08e9a3d425149705f //xmvdz ⏳
 83051179e79234fe83310682213b11a9 //axiisnottired
 e76c1dcdccc53704a86cf8c6dd5bf61b //diegorodrigojs
 eeee1132f77f3b65a24dc45685d461ef //avind_
@@ -2471,7 +2470,6 @@ d9f9a9c1929c3c648d5a3b3e7695aa0c //chadaan
 e24336e7f77b384bbdace8c600f34e5f //evil_celica
 1c3dead7257c38a98d3479032b9d6c84 //fwez69
 ea679d1384c33f20a7a78862ed9c0ed3 //hshsjm
-c47c554095ed361483ae4e8dafe66efe //sve4ka.  ⏳
 6312258c062a3cf1a884ea4853cf805d //orambo779
 a8f575957694320c8a527d20236bbf0a //untabertelur
 eb46e6f237e431b8b3cbb7c3ed628d33 //ertann6074
@@ -2738,7 +2736,6 @@ ab17daf3717033bd98540791fd079d2d //sjsii_
 0394f7a950ba3affb97044a733a367fa //xx_phoenix_xx69
 3b84d5e57cd13601860d1f54dd861e63 //megastar24577
 0394f7a950ba3affb97044a733a367fa //xx_phoenix_xx69
-713e8c704b3039cfadaaed63e1aa13f0 //damage40 ⏳
 adf4f86cbfec38e4adf986a7d0743ac4 //lechugafria5455
 304f752686e0339ea1c4f6d6ef0cdb11 //xx_phoenix_xx69
 0bb701564b8a3fcc994b5debfa1156a3 //digojove7695
