@@ -1,6 +1,6 @@
-LDOE Free
+LDOE FreE
 FROSTBORN FreE
 Tacticool FreE
-Westland Free
+Westland FreE
 Subnautica FreE
-GrimSoul Free
+GrimSoul FreE
