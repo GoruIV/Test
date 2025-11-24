@@ -1,4 +1,4 @@
-PubliC
+Public
 
 FROSTBORN Public
 
