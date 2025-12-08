@@ -4,7 +4,7 @@ FROSTBORN Public
 
 Tacticool Public
 
-Westland PubliC
+Westland Public
 
 Subnautica Public
 
