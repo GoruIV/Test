@@ -13,3 +13,4 @@ a39d2ff2631c3183a8926fde641781bf //wyrneo
 459dc9c92ba43ce3ba26ec094e29bb64 //wyrneo
 bb514344de8a37bd9cf00eea24c8d922 //atchula_197
 f4132d5ef10b3682889ba5cbe3a359c3 //emytsu
+e0b5f28bc89839a7b2cda1ecdb737f27 //anfr_hn
