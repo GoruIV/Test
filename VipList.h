@@ -143,3 +143,4 @@ e77fa811a7d43ba4ab428b494aa678d4 //evapol0
 f3ab89dcca0b3c47a00207f4d252ae47 //koko06877
 a88001f2d2dd3eab8ee19a7f03a4e7b6 //cunrisefun
 34b68c17187837048ea22836ff26484f //zettorioasher
+b7efd611bfb636e48d83d90da8485db2 //lucasrezende
