@@ -145,3 +145,4 @@ a88001f2d2dd3eab8ee19a7f03a4e7b6 //cunrisefun
 34b68c17187837048ea22836ff26484f //zettorioasher
 b7efd611bfb636e48d83d90da8485db2 //lucasrezende
 8e8302ad4bec3b5e9f349b4cbd7a37f1 //y_e_g_o_r
+233126d286f435c2afc808a0a6e05e26 //juangamingoficial
