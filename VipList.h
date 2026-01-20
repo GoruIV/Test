@@ -222,3 +222,4 @@ d46faf8a9a513e1baa3dcf7987bbd418 //hachisma
 f4143dec7e1b37d18f5599eb94dd8fa8 //fmontel.
 b559e3046ec63127b3591912e959aaed //l_d_e_j
 f75e5bc75c1c3d6da05d5eb2a376b32d //gustavomanzoni
+f1793f25b3f035799381f8cb8ad5235d //herculano.
