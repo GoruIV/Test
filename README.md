@@ -8,5 +8,5 @@ Westland Public
 
 Subnautica Public
 
-GrimSoul PubliC
+GrimSoul Public
 
