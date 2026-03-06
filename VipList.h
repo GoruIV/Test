@@ -1141,4 +1141,3 @@ c1d82dc3d2a7343d87b3d729ffc5106d //snowy.m
 2d10262e61843c90ac896f6d87c9df8d //xhellcowx
 d90b61ad5c663ccb868c05ec31c53bd7 //jntm0305
 26bc5a5a61b43d0f9ec1a27016a5dbe0 //asura_r_
-7ea5f7f05bb939fe93bf94f8fd16fb50 //asura_r_
