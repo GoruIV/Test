@@ -1129,7 +1129,6 @@ b9c602c4d49034c7bab774df634b154c //stampylonghead
 fd90d8cd0f8a3a5789949a37f0a37db2 //luis.romero272_57201
 b42a713c847436f9a99029f7b1c39df4 //smyle00
 943d7c36827a3350ba9a6da295306c5c //angrybird_.
-26bc5a5a61b43d0f9ec1a27016a5dbe0 //asura_r_
 d97c6a23cf463810a42ccd93c5ba78aa //crownowl
 83d34ecc48f836f08879d0d534f1cb8a //farrel05_acai
 69006caf8f2d3d6790890f6688d43df6 //thedudewhoasked
