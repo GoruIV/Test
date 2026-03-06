@@ -1,7 +1,7 @@
-LDOE FreE
+LDOE Free
 FROSTBORN FreE
 Tacticool FreE
 Westland FreE
 Subnautica FreE
-GrimSoul FreE
-DOZ FreE
+GrimSoul Free
+DOZ Free
