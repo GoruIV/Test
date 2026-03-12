@@ -1183,3 +1183,4 @@ c544e2f88beb33289b121f7aa5373fee //exhumed8710
 d3edec680ef833bb839b1b1efba24a2f //sweetmodz
 b3e56af36f843209a2d4885f16db1820 //thecrazy1_
 dc2bdc7986783bf3920e34c15da9571a //kazuha_tempest
+bcc8f6cd707f32d6af45d8e0acee7dd9 //hitmanshum
