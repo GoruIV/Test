@@ -1185,3 +1185,4 @@ b3e56af36f843209a2d4885f16db1820 //thecrazy1_
 dc2bdc7986783bf3920e34c15da9571a //kazuha_tempest
 bcc8f6cd707f32d6af45d8e0acee7dd9 //hitmanshum
 6646aca1faf631b0b09c87c3c5d488fa //law5546.
+da12764b8c7d3641827cb0e19504d8e3 //darksidefate
