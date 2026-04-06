@@ -207,7 +207,6 @@ a78a401c18bb32ae97e3f55e65124de9 //altinacoutinho
 24ab1bf21e4c363da35413b3e84cabae //alexis_lcr
 d46faf8a9a513e1baa3dcf7987bbd418 //hachisma
 f4143dec7e1b37d18f5599eb94dd8fa8 //fmontel.
-06885ab393f332928689ec010d435ed2 //l_d_e_j
 f75e5bc75c1c3d6da05d5eb2a376b32d //gustavomanzoni
 f1793f25b3f035799381f8cb8ad5235d //herculano.
 44dfe0ecd8213023b4aef6b044d30591 //napst1
