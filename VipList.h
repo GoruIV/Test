@@ -741,7 +741,6 @@ b9df2fe0b9dc30a7a8653af380566ada //arielmoo
 8cfa84e013eb3e9aa6d4c3ad1fd1b7c9 //kareem_dev
 17d11b60eb0438ffbb11f45817562ced //mikeyk_l
 e389e61bd63b35b18e2723f7b53e29e8 //stormmm7849
-0bf8f3529e99353a95f91e1f978b8882 //romariomd
 98d3aec7cdd336afacc4835b7d38e7af //sebasssass_
 71b253b328373a34bf16cfe860c5b1a6 //m4d3496
 517103e8396b31bbb98b7261844901d3 //obitonkz
@@ -785,7 +784,6 @@ e0ad1a63a95c3f46ab05cd9a4193c4f9 //danil028566
 fb192ccbd1543507aa8f0d928607bcf2 //fannysanders
 38f10df28fa1357fa14556041aba7e4e //bellamy0711
 fe6d8c2a0e663c2fb93ef6a6d45ff80a //kelvison_
-fb7195324b243a0eb484ad9ff6ac47d7 //romariomd
 2080964e68d63c1689595acebb5ec6c6 //diogo_xp_
 cefdeee7e2b63e52b206c54b5a8ca56d //44438231
 48ebe0418b013b6b83e78cfb57a266dd //damianrmx__
