@@ -3,5 +3,5 @@ FROSTBORN FreE
 Tacticool Free
 Westland FreE
 Subnautica Free
-GrimSoul FreE
+GrimSoul Free
 DOZ Free
