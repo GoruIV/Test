@@ -1348,7 +1348,6 @@ a7979296404833cd84ad79364ff9db20 //.jk009
 49cb14613f833e0b9b8bb49e2b36a437 //songugu007_91086
 9316320ed4ce3ebb9d97d3b2b38f0d15 //yukitran
 5271f851f4cb3ae68d379a2ad0277d26 //bearr1489
-60f5d44ccdc63a95aeb94c0ae83ab9ab //vicandsing334 ⏳
 3124f96963b03a098d02ca66e8da5e8d //hamst7033 ⏳
 de8a9b1a7d6a3487ab1bce726acccd5c //yujiitadoribestfriend
 11294bda619f310fb762ef121ab24f8e //gsx_thefato
