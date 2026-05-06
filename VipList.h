@@ -1669,3 +1669,4 @@ d2776ab661ea3e2abd5d9d32f8a046d8 //game070123
 3da9ec38213c3023aba7b07b86868bc6 //alvinrizaldi
 4c0876d516643d39ac388f6ab596e53d //ldoe_player_64410
 4c156a4a2265323da1f6d897e61842a5 //basukettokurasshu
+fd27c8c5af223cc6bf8b79118ce256d8 //lenavaronin
