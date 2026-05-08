@@ -1687,5 +1687,4 @@ d4f861a689f63bcf8320ad9f23536b04 //cronos__dk
 bc2abb4c52f6318cbb1c6d0032f25047 //tikitoj
 68a02024dfd3336e924976f18706175f //monkpo
 cfd8189edc4a304b95b32db50ae6230b //fiery_seahorse_42569
-0395bb73d94f32abacc4a8bcbe74dda4 //lenavaronin
 65bb9d44939a3b3bac25a901ef4a8c28 //fiery_seahorse_42569
