@@ -1694,7 +1694,6 @@ ada9ff174e2c386e893b052c8f96244a //bushmanxd
 0876ec42bfd63eedb3d2667d1180741b //bodia_77588
 9bb8baaca7aa38e6be5bce93b648f24b //lorenzo.x1
 1010139491983d6cad1f4b31d9fd30eb //srloki
-4c5feaa5bf9e32d89d8fbd97d481c72f //derlis0933
 8706547dec62407ca952bc223cd6fddd //rdz.t3o
 588c3d5e76eb3bec8dee8844cbc0ab9d //estrifecta
 fd00442b3af8383280d37584846c0c10 //pratik059
