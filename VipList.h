@@ -132,7 +132,6 @@ a2cb1623bb293ad1bcd087272599d7de //lucasrezende
 e4c9c3405edd378bbeb5351de04fde69 //cengiz22677
 42562af1efcf354c83e214c3a826cdbe //javier088333
 16ab27b8e2f93e418c1167717de4436e //javier088333
-f17dbce14cd33aaaa2bf4009477d469f //estrifecta
 4f4c0839dd0735418858ed6bf97982b5 //geostt
 ae3133d59b1c3302b9c9c6a5cdf5074a //arbaazkhansays
 7de2b10a474b320fb55cde8a20bb42f3 //basukettokurasshu
@@ -654,7 +653,6 @@ d40f2410e0ef31b0a7434f6fc03d3d4a //zpck0657
 cfcdc45a9483389e9b336d2480c6b9ab //fabiocz_
 e0f2a99a42a83915b83a0325e01b96be //.zenoster
 4cab27edad10344aae4fb1c5217ecf75 //fafa6559
-588c3d5e76eb3bec8dee8844cbc0ab9d //estrifecta
 d453dc6c4e743e7b91b33a25303f455c //gerstam
 844d12a15ca835f99e4f190a2a4c75c4 //gabrielfatal7861
 bb6c5246d4853995aebc6988d8a9fce9 //toxicopp21
