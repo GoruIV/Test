@@ -135,7 +135,6 @@ e4c9c3405edd378bbeb5351de04fde69 //cengiz22677
 ae3133d59b1c3302b9c9c6a5cdf5074a //arbaazkhansays
 7de2b10a474b320fb55cde8a20bb42f3 //basukettokurasshu
 c58eadc93254372cabf6b7cb56fa44e2 //zhou245219
-0560063ff2cf3cc1a35096c8f61ce5e6 //larosadei420
 7de1b5b677ba31bdbe19c17cba6129ac //kanon_d7
 8bada209ca2a32fcb1ddcd049bac9493 //fernando_brancati
 9df5518f3120308195747cf65a3ea0ca //.sh1r0z3r0
