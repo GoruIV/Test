@@ -1239,7 +1239,6 @@ caf0fb389c7e3ade8a15b0c9854d0c4c //yankeeya_
 eca8673247c533ac9e1e5822d5dda3f7 //justacoolkidd
 cc6e06f743953db0b3fd914340637d90 //rivilis
 c4e1323c08e23e1bad8db69fccba09ac //rivilis
-b766006a3d2b3f9ebf6161b5754f6176 //doni154
 e49f5fd3f42d3924bd6c51c5fa5c4058 //gintoki_007
 43d8cdf48e8630faa28bb4fe5e44ed11 //rayd14175622
 618553b4d6b232509e84fdd9ad7c04bf //pawanbrar.
