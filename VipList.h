@@ -1883,7 +1883,7 @@ d833afce3fe731f2b3e152db1ac13d47 //lilhitta
 b39aeeaed6d43b549b704397b2d41ee7 //ferriorginal
 5ee56a6a7e653d2d8c25df00811ba615 //nsg27
 e41b1ca1fc323452988afe2ef3513916 //byjapa_
-10001d3c060f3acbb40dd05feae29f26 //xxartefact_57898
+fc6a2f99f5454ef38557bf5b0bdffd81 //xxartefact_57898
 0175a1a30ff73da688e563409e8885ac //_genoxide_
 f62107cc977d383996ea3abaf83b2c5e //dest_ru_ktor
 2d955c85438c36a88ed18fd3d3a54968 //dede_87914
