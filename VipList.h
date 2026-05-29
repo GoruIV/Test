@@ -1887,3 +1887,4 @@ b39aeeaed6d43b549b704397b2d41ee7 //ferriorginal
 e41b1ca1fc323452988afe2ef3513916 //byjapa_
 10001d3c060f3acbb40dd05feae29f26 //xxartefact_57898
 0175a1a30ff73da688e563409e8885ac //_genoxide_
+f62107cc977d383996ea3abaf83b2c5e //dest_ru_ktor
