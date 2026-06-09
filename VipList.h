@@ -799,7 +799,6 @@ c018fa3d1b19381c80c18be04eff0996 //anonymus_fgs
 cf1cbd0b4abe3e79af3083ab8dbb8d41 //aloha980120
 0024fa1c35b03cfc8ab0e72f1287c8a1 //shwarchrz1
 4390cb3874af360faeb3cebbabd2e7ac //thenecenzurat
-5e893596c73c346eaf8f1b1a081c6e07 //s_p_d_porosh_82502
 8a0ff637982d35b2814b6e101d03188c //juliancroft
 5902ca93a2583507b1d4113d6677b8f0 //wanderlord1
 706db1a02bc7337cb162fa6c3938fa20 //slurr6d
