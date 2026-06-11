@@ -1785,7 +1785,6 @@ d2c5d90b4e6641ad836db70ec6b2ba39 //seackgamer
 f73491f8ec993136a26b5d54e427617d //byd123123
 11dd4590c81f393fa346e4ed06a3e8a0 //aungyepaing
 f5e099a8fead3e15a05a30cfb1352d58 //misaka001
-f314feb8744134369f0df5a3e23dffdc //psduardo
 a84a13186b343508bc764e703fb16e01 //_emommy
 a4ff7bc0a68630b6b01adace23ec9505 //dsman
 42f855d7e0dc363fa0cbf43fe2c2ac99 //violarratas74
