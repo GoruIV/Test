@@ -1888,7 +1888,6 @@ aaf288e9b0f9472784fa2b5026267d96 //gilsineikbssa
 19c6424594173a2fb2c2c47b6f47a9fa //43tachita43
 909d8aa6c7183990bb00a9e5ccd3c49f //ov.makima
 73d35c25a5b43d75a8ce207d7db5523d //jacksonxiao
-a24e3da7a9373a449154434fec38b5f7 //doni154
 bf701681d8533bf3a1894b28b233e38c //rezaamiri1381
 15c0690bb26f4beda8e4a7f0c63b8e19 //rgquetza
 bfad012276f539db92bfa7fbbfdca754 //rgquetza
