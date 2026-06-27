@@ -2145,3 +2145,4 @@ f33ff77774323e59a94d164c3b1de193 //pinoyggchronicles
 8c4e39f3321e3a0cb505b27ebc62536a //foreveryoku
 7558a53539ad364a85547f25d1477b93 //tomsnorm
 df150ace1afe3081aa249a4380fcaf1d //boatpiyawat96
+068eaee8dac63096b6409333639aa319 //pinoyggchronicles
