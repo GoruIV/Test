@@ -2201,3 +2201,4 @@ a4674cac9d743a5c8a4646c05ecf8ccf //ameenji
 205ccb9ec217320aa4f74adef3c4b35a //prokipo
 0e41f04832943353be36a16752cae246 //ferjunior7
 b87a95c30ebb3c5e98d94c9a882d5dd6 //kamurastore
+d19bfa50dde13edcb840d17940e583a3 //.kopter
