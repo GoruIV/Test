@@ -628,8 +628,8 @@ f103d57ac4ee3a4ab1e3a582dccf2ddd //mvfju_
 b337e97a6a1c36f0b651413bd277cc82 //yassinekouki7
 9124d06d060e32b3a9e8689da0359da7 //longbeoxxxxxxxxx
 8777b659def73401805fb5732168dece //peaw60
-220f17e35ce34a83937ca12e9aff9bdc //_femboy.astolfo_
-659479b4f1aa31fe8cb53ccfca122795 //_femboy.astolfo_
+220f17e35ce34a83937ca12e9aff9bdc //jdaunl
+659479b4f1aa31fe8cb53ccfca122795 //jdaunl
 26523c5336b04e4ca4e5b7a1c8199801 //jblblackman
 3cee26bfa2453b25ba8a9958fac903c3 //jblblackman
 004d5193612e30f2801b882d725bb73b //skyundeground2
