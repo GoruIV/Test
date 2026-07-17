@@ -2192,7 +2192,7 @@ ceb3ed9c422a34d8aee04237b1bf668a //mchmdhin
 2fbac97240a63b9ab0109cdac3015744 //neritvizor
 33dc551903ce34bab02de0df5ba64885 //girardcorp
 8d6da26e9c4234ffb187fc446372c9f1 //psygamez_
-f33ff77774323e59a94d164c3b1de193 //pinoyggchronicles
+f33ff77774323e59a94d164c3b1de193 //naveax16
 1ac8bba6bdea36f598697aa759161c97 //pania867060
 4ebe04f3886c31ef8e2090bf0feba515 //bvmarco
 475674c0bc29361ea1cc2d120890acd1 //wolf593
@@ -2319,4 +2319,4 @@ bf99d482aa10309cb963483eb79d090f //meduelealmear
 d8d189c833533351ad8e8d2eff3e3c6f //claudemarfreitas
 9752443dd99d3a158c49354d5ec31e89 //provan
 dac6c86807cc3d1ea802a7fe7a9bd942 //regueguy
-dd3dd4e09ad33a1b97096d4ca0e613e2 //pinoyggchronicles
+dd3dd4e09ad33a1b97096d4ca0e613e2 //naveax16
