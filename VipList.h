@@ -1811,7 +1811,6 @@ dfa344f4167d3eafa2b2e00d5dbc77c9 //dingo12435
 3cdb72a754974947ae894461cf9ae9cb //ponlee_shiroko_bot_runscip
 db000e632c5c31d9882165c1ba5aa337 //ichsan_0
 b14650d3cd4b3b9dbc37d40774f54836 //xzhi_kub
-465a104c57ba35aa8cbc5b985354e42d //slashybroski ⏳
 39c8a75147673f1bb86a7883993b061a //zonty8544
 9dc089e264dd3b2ca3d33cb352a48ade //22roch22
 692c8efc58463dffabb62e544507c676 //little_hand89
