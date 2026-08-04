@@ -416,7 +416,6 @@ be1dfaf816eb312ba127996b4fd3e775 //bbakihanma.
 5d44ce002cc93903ad158cdd47877bca //astracalipsogm
 d9b9516e47203920b54446cfd996f2d0 //gsauce_krayst02
 257bdabb82413ceea83b0295446ecfa3 //.jackiejoe
-67429c4dee9833faa7e145b83bd76042 //triston7849
 b3fa5105d7923ec7987ce284385208f6 //rotakillz
 914f60d6ab773f4f8bc7a0f3c4a76fcb //jack19001699
 4e42f6dbde1b3a7fb51590598718cb2e //nekoparafan.
@@ -731,7 +730,6 @@ bc8e7c9bba7d307aba40b4c76da738dd //albervonwiert
 06879eb1fe0d3f30af5b5634f445fa28 //lord_cervic
 14e95db88351303ca8f60b299ff28f19 //9raph
 089f75ed6cea36b6bf2f8e836b6637e6 //hieutn2103
-dd8aa32bfb053c7792cf3258d9004fad //triston7849
 cd4aa20f0b8030e5afa2ada23535f288 //topik1702
 85422fb963a938ba9e02830b26519153 //mao_sama15
 fb9f88f449f83e6ca19c79e39d15cb17 //alexis_lcr
