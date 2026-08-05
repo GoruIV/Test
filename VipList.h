@@ -2482,3 +2482,4 @@ a493b0c48dc9392d8cb196f88f4d7773 //tarakudo4645
 d950759ae3e4384f84f2f71b774d43de //tomas_synak
 5ee88eb8c1333ff09e117c7dfb1ad0ea //rey_demoni
 4b8902a3cc8739988757fd08356ae53b //tomas_synak
+fdc6724ac4f3394c93d6f0aeaad70fb2 //g3voltwarrior
