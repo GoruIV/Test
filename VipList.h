@@ -2775,7 +2775,6 @@ bdbf4fccf76a37bf9288d1f0387179d0 //its_yrboicarl ⏳
 48f21881353630dfabfc31d74c66941c //ronaldparedes
 8170b7eac3c73a40ac1db46d1a2ee4aa //math.floor
 d661de3873a333c9a1a353529a6e8d23 //zahp
-148f03a6f072344ca13c2acad76c529c //el_lucky
 194298ed30a3385abad4e06ddf3370e5 //ymxdd01
 42f27a87b42d496bb8f26be7791b34d1 //imskxnxt
 ee5d0f258dea37f5bda06411f5695af8 //petro_gg
