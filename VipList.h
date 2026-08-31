@@ -186,7 +186,7 @@ d46faf8a9a513e1baa3dcf7987bbd418 //hachisma
 f4143dec7e1b37d18f5599eb94dd8fa8 //fmontel.
 f1793f25b3f035799381f8cb8ad5235d //herculano.
 44dfe0ecd8213023b4aef6b044d30591 //napst1
-12561b29194e3dd4849036dcdefde353 //tytifruti_
+12561b29194e3dd4849036dcdefde353 //exztazz_
 6538cb038ef63c8fbd58ebe98f0e0fc4 //nicmango_46354
 8198cf946fd2377fb7936583f34d6bdb //insanit716
 1dcc84bca1e63785bedf502b0fbf8b2b //big_jeo
@@ -211,7 +211,7 @@ e353b2e02a603feea0e2bf4ab699fbcd //ton015336
 a7c4e0861f213218a6bf8419c5f0bd24 //neon_share
 c0f2d01b74aa39afb954ee6c21f64f03 //jooca1311_80001
 52415cb376cb34d890581ca31ff3a5e2 //exse7en.
-be07f95b102f3e139fe09beb9bfc51a7 //tytifruti_
+be07f95b102f3e139fe09beb9bfc51a7 //exztazz_
 a7b854967fb531f9a9ef3928f4b2a782 //himaku123
 2621ac1cb2b130dda6aa4fbbf6fcee2c //darcgolds
 aa126614e653373e8f65b685598bb252 //cheddar1161
