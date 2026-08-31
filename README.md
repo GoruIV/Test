@@ -1,4 +1,4 @@
-LDOE V4.5 PubliC
+LDOE V4.5 Public
 
 FROSTBORN PubliC
 
