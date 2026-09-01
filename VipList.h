@@ -2050,7 +2050,6 @@ a4674cac9d743a5c8a4646c05ecf8ccf //ameenji
 205ccb9ec217320aa4f74adef3c4b35a //prokipo
 0e41f04832943353be36a16752cae246 //ferjunior7
 d19bfa50dde13edcb840d17940e583a3 //.kopter
-17b6606dd3023c3fa4909e7fbdfb339e //casmy__luvv ⏳
 1cf401f5463e3a069867ed55f7979b6b //mrcharlesir
 d4e793973d0b3aba8d8cb1abc76df7a1 //danielghbee5371
 c774c9b3c3663b77b04cf723ae960892 //erenziger
@@ -2123,7 +2122,6 @@ e82e54de5f283b25bb145c57deab1ab7 //deerhe4d
 4d2a8f73645e3b3d866c0e1c86d3f5ed //gforce571930
 d4a685193dd23784bf86330c5c9bcbda //fluffy_vanilla
 2bff990660203588bebc2e697a820ea9 //fly6419
-d9cefeafdcbf3e3db944f43fb670ddf1 //casmy__luvv ⏳
 9aa67ecc889033f7897ba5f1dca9805a //keppr
 82cdf848db8333e9918f0de52d038697 //tope02781
 1341d7de383b3529a7a77b53670b78ea //__psih__
