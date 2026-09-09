@@ -8,6 +8,6 @@ Westland PubliC
 
 Subnautica Public
 
-GrimSoul Public
+GrimSoul PubliC
 
 DOZ Public
