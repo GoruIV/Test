@@ -2858,7 +2858,6 @@ d915ce6ace943d0c850441f928e145ee //shinseolhwa
 721b3e496a983e1995c143be35d462a0 //rocky_0ne ⏳
 2d7e911601203580920d829348492329 //lastlast0382_16961
 6ada8d1b73f73aa592f8c6ddeef21bbf //dovahtik
-95bf2c2b545133bf8fc1fdf13d53f6df //ryzeupbabyyy
 45f42d5623b4316fbdde671384aeb661 //vulturebrawl
 ccb75d00bede3e8bb5828dfbe0b8eec4 //inuyasha01035
 7d2cacb29a8f3248ae09674ec2157cf5 //maksimus7647
