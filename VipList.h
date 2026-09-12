@@ -6,8 +6,6 @@ fe218a6664be3b3284f8c06ea0f5047e //abualqasim07
 d4e3b5f68c6335679833475e8783f22e //kanavrajput
 5f41cde4a6093676a886baab7fe50904 //oilylettuce1732
 761d91b1252e3b18a823cbc8917a7ca6 //bratwurstbrot
-2f3e4c3f3a3d3fc99700dfb201349e68 //wyrneo
-5cdb61d603e13e92bbff8d5543127305 //wyrneo
 be17133054e03c5d83efa9779f030883 //emytsu
 88c7bf4fe2fb3551b267181df5ede3ff //anfr_hn
 9cf8e24b6e1534e7b1cbf071627d1eba //ariabeaoq
