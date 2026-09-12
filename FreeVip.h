@@ -1,7 +1,7 @@
-LDOE V4.5 FreE
+LDOE V4.5 Fre
 FROSTBORN FreE
 Tacticool Free
 Westland FreE
 Subnautica Free
-GrimSoul FreE
-DOZ FreE
+GrimSoul Free
+DOZ Free
