@@ -1207,7 +1207,6 @@ db636932709b3c28bc5bbeb4709c5087 //.skarlxrd
 98cafa81c8d6327e9e8cc2efb78737d1 //jas4781
 cbd1abeb7e9e3677ae208c1c7bca03d1 //xlr86885
 2b24edc35ee739c8a1dd991980ef5e67 //bernabeuh
-da463a6931fd3e07aea1ba3b20f6275b //juangamingoficial
 4c40de59c5c43988a7441ab33f99d5d3 //iaawotl
 d0a39311efb53cc2add0ea29d112241e //muns0535
 086e981edfc63a25871374a3202f5e03 //peter_lustig123
