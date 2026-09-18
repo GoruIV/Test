@@ -2208,7 +2208,6 @@ d984927dacb139799a3bd68862e5634d //bratwurstbrot
 6068e55126173500a8fc2ce422fc10d3 //leewillneverdmfirst
 4ebe04f3886c31ef8e2090bf0feba515 //bvmarco
 46d81121484d3528b33c9872c5063a85 //thuy2371
-775966ba60193144a9f7943a158ab0b5 //luthdwiantara
 092edc3b1c22312e906dcbd8c4d475a1 //x.navarrete.x
 2aac07af485c3684b616b98acb263aaa //owl.takezawa
 c456ea71116e3bfdb90dc2805c5f96c3 //limemodz
