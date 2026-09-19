@@ -2985,5 +2985,4 @@ c3456245ceb7315095e1a0341dc4a67d //motyemody
 8671e848aba0372c99c7fd9cde70b09e //catringtx
 e393ee85d88a31418ce19f864c478cde //maksimus7647
 c19557d6e1573b5a9dab635bc700c5cd //cardozo1509
-9f98b080a73c3cd7ad5f0bd8546d7d89 //anggatirta_n.p
 4508ec6988f73fe4bc2a50e289a2ea6e //serhat_59
