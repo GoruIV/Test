@@ -172,7 +172,6 @@ fbaeceb96aab391b97810639604e9586 //ramanaswamy
 291b576c13a33f5d996be3bf2a021b23 //naytgg
 33951a73054c3daab59e085963aba994 //altinacoutinho
 24ab1bf21e4c363da35413b3e84cabae //alexis_lcr
-d46faf8a9a513e1baa3dcf7987bbd418 //hachisma
 f4143dec7e1b37d18f5599eb94dd8fa8 //fmontel.
 f1793f25b3f035799381f8cb8ad5235d //herculano.
 44dfe0ecd8213023b4aef6b044d30591 //napst1
