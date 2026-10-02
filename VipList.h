@@ -1772,7 +1772,6 @@ e9167506a55635718c23daa2b56496c5 //matheussampaio6491
 7cf656ead71c345aba415cf62b6dd2df //jbmauney
 0f2ef3c64e3934cabd84371319e7ca80 //netto0341
 2b7f6bcd004a3e39a205007c3d4f1a95 //captainjoe3204
-71f775d87ecd3cb99fa5a3061bcaac38 //_raikura
 03371e65278d3bd79b17b5558608a90d //a.le.x.a.n.d.e.r.2.8
 c1163cf2b8b73c4ba70adff745fff880 //.guitobias
 d88dfe4f5ee63c2c9c42f8bf2fb4634a //ruari0938
