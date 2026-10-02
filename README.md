@@ -1,4 +1,4 @@
-LDOE V4.5 Public
+LDOE V4.5 PubliC
 
 FROSTBORN PubliC
 
@@ -8,6 +8,6 @@ Westland PubliC
 
 Subnautica Public
 
-GrimSoul Public
+GrimSoul PubliC
 
 DOZ Public
