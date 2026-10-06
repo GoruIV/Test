@@ -85,7 +85,7 @@ c6017a0a4be037188d6091bd65f2e706 //kingtypicalkilla
 a2e507a16182377084382fe939f09eea //vhalore
 dfebac333e553f10b948e2e99ed9677e //kotyazxc
 22fc2b5b1c5d33448d1275cd62a1e89d //rasquiita04
-5d8db6ee6683399d96459158558b0cbf //j_amanda20
+d7767adc1d9b38c7a2c49c28c06cfb40 //j_amanda20
 fe5c6c3afd7f3c069e3ca9aca35c1b0f //sadacv
 1e6fa55821663ec48c2bf412d0c262d3 //anwa29
 5b4cf3de949b329db31c404f02d64d32 //aestsx
