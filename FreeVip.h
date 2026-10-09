@@ -4,4 +4,4 @@ Tacticool Free
 Westland FreE
 Subnautica Free
 GrimSoul FreE
-DOZ Free
+DOZ FreE
