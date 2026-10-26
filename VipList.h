@@ -110,7 +110,6 @@ fffbbca13dbb37c189f7e781a1669be7 //lllmugetsulll
 fc82a125a0f536ba8484d792956c1c00 //zettorioasher
 a2cb1623bb293ad1bcd087272599d7de //lucasrezende
 8e8302ad4bec3b5e9f349b4cbd7a37f1 //y_e_g_o_r
-68be34d3471c3a6cb3d9c381212a19f5 //juangamingoficial
 e3d5a30aebeb3d78bf5454cd607416fd //cengiz22677
 62d2642eb61d36f3addfce50108e024a //javier088333
 03eacf64750f333e96be77e592935250 //javier088333
