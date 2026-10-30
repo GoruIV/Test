@@ -1912,7 +1912,6 @@ a4674cac9d743a5c8a4646c05ecf8ccf //ameenji
 1fbbd06f41143c9fbf51a9edf56d6541 //mayastore
 4252ba8c6d6039a8a885c6889550a311 //preyisteixon
 17cbb5c8f4eb315780dd89c4d4554fb7 //bryani6055
-205ccb9ec217320aa4f74adef3c4b35a //prokipo
 0e41f04832943353be36a16752cae246 //ferjunior7
 d19bfa50dde13edcb840d17940e583a3 //.kopter
 1cf401f5463e3a069867ed55f7979b6b //mrcharlesir
