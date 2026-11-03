@@ -968,7 +968,6 @@ afcfc4070a323b9da328ee627f451ec7 //b4yudie
 443e60853a803054bbbdb323e24f5b1a //codkw
 0c832940854d351fb930fa93855e99af //bizuka8759
 82c63da4d57d34049a329955d3385fb4 //.nexxito
-d447b5ff667f3dee9d90c1d657dcdb46 //davidrandy
 5c2080776bdd36b68c54efe62e05d3a5 //teitooooooos
 acef6d0295f03c1ca25fdf9333e37571 //teitooooooos
 73873bddc0a931068a58757ab792eafc //liksapoda
