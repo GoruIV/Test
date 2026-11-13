@@ -545,7 +545,7 @@ f9c4e238fb5e3b8b96dc0a95fa705529 //djm3rks
 e3d6cdd2953032948c015fcce17d342d //axelsteele_
 d2d7f03a874f3e768181b0bc6d61e944 //eldoc8847
 ec6bb51e00183e23a90c6d7529633661 //grozniylis
-b2912086d738345cb792b6bdc1708f42 //adigger.
+b2912086d738345cb792b6bdc1708f42 //sttufferr
 a03257ad522e3ce4acdeb754effd7a21 //alberto.aza
 539e800f47593d8ea485e9cfa476aa9c //carlosdomingos4421
 5aefebb335b53ce0829888ee36cc45d9 //zed10657
@@ -2026,7 +2026,7 @@ d18b8dbda00731edac0bb1cb65a6a25d //proxyacts
 bf99d482aa10309cb963483eb79d090f //meduelealmear
 538424a126d93ea08f56c46babab1689 //claudemarfreitas
 d8d189c833533351ad8e8d2eff3e3c6f //claudemarfreitas
-d8353d9d0d08324cad404e11e98cdba8 //adigger.
+d8353d9d0d08324cad404e11e98cdba8 //sttufferr
 dd3dd4e09ad33a1b97096d4ca0e613e2 //naveax16
 6edca91830b2316ca34d3caafcec7e7e //zapata1530
 2720eb4021b639dba0d3e314327bc00d //imaginelookinglikeabagel
