@@ -1645,7 +1645,6 @@ ffbc24b3fed13b0e94dcaba28d3c63c9 //avigogog
 22ec007d3e1f3d89b92831d50fd738ac //anshul4291
 086f8e45e4403b4ead950fb07af4e74c //dragonblack7761
 223e7041c70c343db24706af56c1cad3 //radievtim
-ae540d0c281b3ece8ca15e840f8d9292 //ruanpabloaraujo
 d0697a6a1ce73d3dbc8c9a8dcad25b0d //scavhunter6969
 b7c8d874dc8a3802a470dac4383d3fb3 //jhosus1341
 42ab7f4feafe4f71ad2c5b2f2911b7d1 //perro_73115
